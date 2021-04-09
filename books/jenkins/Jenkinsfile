@@ -12,7 +12,7 @@ pipeline {
     environment {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "sjaak-derksen-tno-nl-books-dev"
-        STAGE_PROJECT = "sjaak-derksen-tno-books-stage"
+        STAGE_PROJECT = "sjaak-derksen-tno-nl-books-stage"
         APP_GIT_URL = "https://github.com/sjaakd/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
 
